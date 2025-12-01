@@ -1,0 +1,1 @@
+export const procesarPedido = ( pedidos, ...extra) => ({ ...pedidos, extra });
